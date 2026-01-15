@@ -28,7 +28,8 @@
 
 📧 Email: [ola236hmera@gmail.com](mailto:ola236hmera@gmail.com)
 
-📘 Facebook: [My Facebook](https://www.facebook.com/ola.blackpearl)
+📘 [![Facebook](https://img.shields.io/badge/Facebook-Ola%20Hmera-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ola.blackpearl)
+
 
 
 
