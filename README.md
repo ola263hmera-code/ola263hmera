@@ -25,7 +25,12 @@
 
 ## 🌐 Connect with Me :
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/ola263hmera-code)
-[![Email](https://img.shields.io/badge/Email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:ola236hmera@gmail.com)
+
+📧 Email: [ola236hmera@gmail.com](mailto:ola236hmera@gmail.com)
+
+📘 Facebook: [My Facebook](https://www.facebook.com/Ola Hmera)
+
+
 
 
 ---
